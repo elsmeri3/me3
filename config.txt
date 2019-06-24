@@ -1,0 +1,6 @@
+﻿token=NTkyNDk4MjYyMDc0ODUxMzYw.XRARjg.U2_wdwREcti4YjQFIhLbSYQZFn4
+owner=418117854412406794
+prefix= t
+game= !thelp
+stayinchannel=true
+songinstatus=true 
