@@ -1,4 +1,4 @@
-﻿token=NTkyNDk4MjYyMDc0ODUxMzYw.XRARjg.U2_wdwREcti4YjQFIhLbSYQZFn4
+token=NTkyNTExOTc3Nzk2OTI3NDg4.XRAZ3w.zsdpWJ7Xnr6vwdOQUd_q1HS5i-4
 owner=418117854412406794
 prefix= &
 game= &help
